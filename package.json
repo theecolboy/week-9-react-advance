@@ -1,0 +1,21 @@
+{
+  "name": "communityhub-advanced",
+  "version": "1.0.0",
+  "description": "CommunityHub Advanced React Assignment",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.14.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}

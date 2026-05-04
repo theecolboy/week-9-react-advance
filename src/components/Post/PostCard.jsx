@@ -1,0 +1,1 @@
+import { Link } from "react-router-dom";function PostCard({ post }) {  return (    <div>      <h3>{post.title}</h3>      <p>{post.body.substring(0, 80)}...</p>      <Link to={`/posts/${post.id}`}>Read More</Link>    </div>  );}export default PostCard;

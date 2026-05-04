@@ -1,0 +1,1 @@
+function Home() {  return <h1>Welcome to CommunityHub 🚀</h1>;}export default Home;
